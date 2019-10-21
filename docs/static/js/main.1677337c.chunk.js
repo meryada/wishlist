@@ -1,0 +1,2 @@
+(this.webpackJsonpwishlist=this.webpackJsonpwishlist||[]).push([[0],[,,,function(n,t,e){n.exports=e(10)},,,,,function(n,t,e){},function(n,t,e){},function(n,t,e){"use strict";e.r(t);var s=e(0),i=e.n(s),c=e(2),r=e.n(c);e(8),e(9);var a=function(){return i.a.createElement("div",{className:"App"})};r.a.render(i.a.createElement(a,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.1677337c.chunk.js.map
