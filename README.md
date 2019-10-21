@@ -1,4 +1,4 @@
-![PapaNoel](/public/favicon.ico)
+**WISHLIST APP**
 
 **web application to create a wish list**
 
