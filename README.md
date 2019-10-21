@@ -1,4 +1,4 @@
-![PapaNoel](/src/images/logo_wishlist.png)
+![PapaNoel](/public/favicon.ico)
 
 **web application to create a wish list**
 
